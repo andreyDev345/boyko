@@ -1,3 +1,5 @@
 .env
 app.log
 temp/passwords.txt
+passwords.txt
+temp/
